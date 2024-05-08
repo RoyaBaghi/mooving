@@ -7,3 +7,4 @@ checkBoxes()
 function checkBoxes(){
     
 }
+const 
